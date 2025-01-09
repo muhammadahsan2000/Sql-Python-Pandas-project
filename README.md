@@ -7,10 +7,10 @@ Integrated Data Processing and Analysis Pipeline
 This project demonstrates the creation of a robust pipeline for extracting, processing, and analyzing data. It retrieves datasets from Kaggle, processes and transforms the data using Python, and stores it in Microsoft SQL Server for further querying and analysis.
 
 Key Features
-Data Extraction:
-Automated retrieval of datasets using Kaggle API endpoints.
-Data Transformation:
-Cleaning, transforming, and preparing data using Python and Pandas.
+. Data Extraction:Automated retrieval of datasets using Kaggle API endpoints.
+
+. Data Transformation:Cleaning, transforming, and preparing data using Python and Pandas.
+
 Database Integration:
 Loading processed data into Microsoft SQL Server for efficient storage and structured querying.
 SQL Analysis:
