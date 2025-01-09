@@ -1,7 +1,7 @@
 # Sql-Python-Pandas-project
 ![project diagram](https://github.com/user-attachments/assets/f13fae64-ad53-4a38-91df-8cd4964a7864)
 
-Project Description
+Project Description:
 Integrated Data Processing and Analysis Pipeline
 This project implements a robust pipeline for extracting data from Kaggle using its API, processing and transforming the data using Python (utilizing Pandas for data manipulation), and loading the transformed data into Microsoft SQL Server for further analysis and querying. The project leverages SQL for data transformations, aggregation, and querying to derive insights and generate reports.
 
